@@ -1,8 +1,9 @@
 export const firebaseConfig = {
-  apiKey: 'AIzaSyDNwbb1RWmPAuvJSY7gH1-sBzfgM6GP0vk',
-  authDomain: 'spectagram-42046.firebaseapp.com',
-  projectId: 'spectagram-42046',
-  storageBucket: 'spectagram-42046.appspot.com',
-  messagingSenderId: '1081289387188',
-  appId: '1:1081289387188:web:bf0e7dae01bf8155f8fbe1',
+  apiKey: "AIzaSyCi7Xkp_PtEk8XfR7WcrRoUhbFZhUIy48I",
+  authDomain: "project-85-15b31.firebaseapp.com",
+  databaseURL: "https://project-85-15b31-default-rtdb.firebaseio.com",
+  projectId: "project-85-15b31",
+  storageBucket: "project-85-15b31.appspot.com",
+  messagingSenderId: "298116548739",
+  appId: "1:298116548739:web:9f670e6e2d0f83864e33b6"
 };
